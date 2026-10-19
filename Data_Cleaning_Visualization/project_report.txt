@@ -1,0 +1,35 @@
+DATA CLEANING AND VISUALIZATION PROJECT REPORT
+
+1. Project Overview
+
+This project focuses on cleaning a raw dataset, checking data quality, handling missing values, removing duplicate records, and creating visualizations to understand the data.
+
+2. Tools and Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Visual Studio Code
+
+3. Data Cleaning
+
+The dataset was loaded using Pandas. Duplicate rows were removed, extra spaces were cleaned from column names and text values, and missing numerical and text values were handled.
+
+4. Data Visualization
+
+The project generated visualizations to explore the dataset, including:
+- Histogram to understand numerical data distribution.
+- Bar chart to compare selected records.
+- Correlation heatmap to examine relationships between numerical columns, when available.
+
+5. Project Outputs
+
+- Cleaned dataset: cleaned_data/cleaned_dataset.csv
+- Histogram: visualizations/distribution_chart.png
+- Bar chart: visualizations/bar_chart.png
+- Correlation heatmap: visualizations/correlation_heatmap.png, when available.
+
+6. Conclusion
+
+This project demonstrates basic data preprocessing, data quality assessment, missing-value handling, and visualization using Python libraries. The resulting cleaned dataset and charts can support further exploratory data analysis.
